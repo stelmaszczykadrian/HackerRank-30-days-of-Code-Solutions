@@ -1,4 +1,4 @@
-package hackerRank.solutions.day2;
+package hackerRank.solutions.day2_Operators;
 
 public class Day2 {
     public void solve(double meal_cost, int tip_percent, int tax_percent) {

@@ -1,4 +1,4 @@
-package hackerRank.solutions.day1;
+package hackerRank.solutions.day1_DataTypes;
 
 import java.util.Scanner;
 

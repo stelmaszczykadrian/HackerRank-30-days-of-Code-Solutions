@@ -1,4 +1,4 @@
-package hackerRank.solutions.day0;
+package hackerRank.solutions.day0_HelloWorld;
 
 import java.util.Scanner;
 

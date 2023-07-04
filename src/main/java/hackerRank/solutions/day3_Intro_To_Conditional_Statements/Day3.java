@@ -1,4 +1,4 @@
-package hackerRank.solutions.day3;
+package hackerRank.solutions.day3_Intro_To_Conditional_Statements;
 
 import java.io.BufferedReader;
 import java.io.IOException;
